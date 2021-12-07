@@ -1,7 +1,7 @@
 package A_basics;
 
 
-public class JavaVariables {
+public class JavaDatatype {
     public static void main(String[] args) {
         int num1=10;// 4 byte
         long num2=1000000; //8 byte
